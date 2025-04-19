@@ -1,6 +1,3 @@
-# PRODIGY_ML_04
-Hi this is Anshu Kumar and this is my repository for the tasks given to me by the IT company "PRODIGY INFOTECH" where i am currently working as a "MACHINE LEARNING INTERN". The ML_04 repository consists of the task 04. Project Title: Hand Gesture Recognition for Intuitive Human-Computer Interaction Objective: The primary objective of this project is to develop a hand gesture recognition model that can accurately identify and classify different hand gestures from image or video data. This model aims to enable intuitive human-computer interaction and gesture-based control systems, enhancing the user experience and providing a natural way to interact with technology.
-
 Project Description: In this project, we focus on creating a robust hand gesture recognition system capable of interpreting a variety of hand gestures. The system is designed to process image and video data to recognize specific gestures and facilitate seamless interaction between humans and computers.
 
 The project workflow includes the following steps:
